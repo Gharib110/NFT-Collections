@@ -7,3 +7,4 @@ Various NFT Image Collection from Opensea Platform<br/>
 - I am using python cause It runs on Google Colab and I have access to my Google Drive to store the data
 - You can also fill a form that is available on Opensea to ask them to lift up the rate limit for your API
 - My google drive repo contains many images from various popular NFT collections
+- I tried to acquire all NFTs of the collections. For example the REDDIT folder contains more than 40000 items 
